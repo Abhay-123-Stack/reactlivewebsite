@@ -1,7 +1,7 @@
 import React from "react";
 import "./asset/style.css";
 import { useEffect, useState } from "react";
-import img1 from "./Image/images.png";
+import img1 from "./Image/Blood.png";
 import { useHistory } from "react-router-dom";
 import {
   MDBBtn,
